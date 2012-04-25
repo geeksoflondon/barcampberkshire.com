@@ -7,7 +7,7 @@
 There are 2 main branches that hold production code.
 
 * `master`: holds the source code. This is the branch you make a feature branch of and add stuff to.
-* `gh-pages``: This is the branch that holds the compiled site. You never commit to this directly.
+* `gh-pages`: This is the branch that holds the compiled site. You never commit to this directly.
 
 ### Adding a new post
 
