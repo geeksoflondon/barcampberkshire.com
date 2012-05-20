@@ -1,9 +1,14 @@
 {% if site.twitter_user %}
 <section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating...</li>
-  </ul>
+  <h3>Talk about Barcamp Berkshire.</h1>
+  <p>Tell everyone you know about Barcamp Berkshire! Blog, talk and tweet using hashtag #bcb.</p>
+  <div id="latest-tweets">
+    <h4>Latest Tweets</h4>
+    <ul id="tweets">
+      <li class="loading">Status updating...</li>
+    </ul>
+  </div>
+  <p>We're also on <a href="http://lanyrd.com/2011/barcamp-london-9/">Lanyrd</a>, the social conference directory. Feel free to add yourself there, and during BarCamp link to your presentations, notes, photos etc.</p>
   <script type="text/javascript">
     $.domReady(function(){
       getTwitterFeed("{{site.twitter_user}}", {{site.twitter_tweet_count}}, {{site.twitter_show_replies}});

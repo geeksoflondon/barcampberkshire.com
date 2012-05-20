@@ -1,39 +1,28 @@
 article {
-  padding-top: 1em;
+  padding-bottom: 1.2em;
   a { @extend .force-wrap; }
   header {
     position: relative;
-    padding-top: 2em;
     padding-bottom: 1em;
-    margin-bottom: 1em;
-    background: $img-border bottom left repeat-x;
-    h1 {
-      margin: 0;
-      a { text-decoration: none;
-        &:hover { text-decoration: underline; } }
+    overflow:hidden;
+    h2 {
+      border:none; margin:0; padding:0px; float:left;
+      a { text-decoration:none; background:none; color:$blue;
+        &:hover {color:$light-blue;}
+      }
     }
     p {
       font-size: .9em;
-      color: $text-color-light;
+      color: $black;
       margin: 0;
       &.meta {
         @extend .sans;
-        text-transform: uppercase;
-        position: absolute; top: 0;
+        padding:0px; float:right; background:none; border:none;
       }
     }
     @media only screen and (min-width: 768px) {
-      margin-bottom: 1.5em;
-      padding-bottom: 1em;
-      background: $img-border bottom left repeat-x;
     }
   }
-  h2 {
-    padding-top: 0.8em;
-    background: $img-border top left repeat-x;
-  }
-  .entry-content & h2:first-child, header + h2 { padding-top: 0; }
-  h2:first-child, header + h2 { background: none; }
   .feature {
     padding-top: .5em;
     margin-bottom: 1em;
@@ -67,8 +56,7 @@ article {
     }
   }
   > footer {
-    padding-bottom: 2.5em;
-    margin-top: 2em;
+    margin-top: 1em;
     @extend .sans;
     p.meta {
       margin-bottom: .8em;
@@ -84,19 +72,11 @@ article {
 }
 article + article {
   .blog-index & {
-    background: $img-border top left repeat-x;
   }
 }
 #content .blog-index {
-  padding: { top: 0; bottom: 0; }
-  article { padding-top: 2em; }
-  article header { background: none; padding-bottom: 0; }
-  article h1 {
-    font-size: 2.2em;
-    a { color: inherit; &:hover { color: $link-color-hover; } }
-  }
+  width:63%; padding-right:$pad-wide; float:left; box-sizing:border-box;
   a[rel=full-article] {
-    background: darken($main-bg, 5);
     display: inline-block;
     padding: .4em .8em;
     margin-right: .5em;
@@ -106,7 +86,6 @@ article + article {
     @include transition(background-color .5s);
     &:hover {
       background: $link-color-hover;
-      text-shadow: none;
       color: $main-bg;
     }
   }

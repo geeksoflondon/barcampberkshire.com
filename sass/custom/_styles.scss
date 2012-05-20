@@ -1,2 +1,44 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+$hover: -webkit-linear-gradient(45deg, hsla(0,0%,0%,0) 47%, $light-blue 48%, $light-blue 51%, hsla(0,0%,0%,0) 52%);
+
+header > p {
+    border-left:9px solid $yellow;
+    background: transparent;
+    background-image: -webkit-linear-gradient(left, $blue 14px, $white 15px);
+    padding:12px 12px 12px 0px;
+    a {
+        padding: 4px 4px 4px 20px;
+        background:transparent;
+        background-size:8px 8px;
+        background-image:$hover; color:$blue;
+    }
+    a:hover, a:active {
+        color:$green;
+        background-image:
+        -webkit-linear-gradient(45deg, hsla(0,0%,0%,0) 47%, $light-yellow 48%, $light-yellow 51%, hsla(0,0%,0%,0) 52%);
+    }
+
+}
+
+nav ul.main-navigation {
+
+}
+nav ul.main-navigation li,
+nav ul.main-navigation li:first-child,
+nav ul.main-navigation li.first {
+    border-left: 6px solid $nav-border-left;
+    background-image: -webkit-linear-gradient(left, $blue 12px, $white 13px);
+    margin-left: .8em; padding:9px 9px 9px 0px;
+      a {
+        padding: 3px 3px 3px 24px;
+        background:transparent;
+        background-size:8px 8px;
+        background-image:
+        -webkit-linear-gradient(45deg, hsla(0,0%,0%,0) 47%, $light-green 48%, $light-green 51%, hsla(0,0%,0%,0) 52%);
+      }
+      a:hover, a:active {
+        background-image: $hover;
+      }
+}
