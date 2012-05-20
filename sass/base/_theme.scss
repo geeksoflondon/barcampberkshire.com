@@ -7,7 +7,9 @@ $light-blue: lighten($blue, 30%);
 $dark-blue: darken($blue, 30%);
 $green: #68bd45;
 $light-green: lighten($green, 30%);
-$dark-green: darken($green, 30%);
+$dark-green: darken($green, 20%);
+$yellow: #ffde16;
+$light-yellow: lighten($yellow, 20%);
 $white: #fbfbfb;
 $dark-white: darken($white, 5%);
 $black: #333333;
@@ -38,15 +40,15 @@ $type-border: $black !default;
 
 /* Navigation */
 $nav-bg: $white !default;
-$nav-bg-front: image-url('noise.png') !default;
+$nav-bg-front: $white;
 $nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11)) !default;
 $nav-color: $green !default;
-$nav-color-hover: $dark-green !default;
+$nav-color-hover: $blue !default;
 $nav-placeholder: $blue !default;
 $nav-border: $white !default;
 $nav-border-top: $white !default;
 $nav-border-bottom: $white !default;
-$nav-border-left: $black !default;
+$nav-border-left: $green !default;
 $nav-border-right: $light-black !default;
 
 /* Sidebar colors */
@@ -90,6 +92,11 @@ html {
   text-shadow: $text-shadow;
 }
 body {
+  > header h2 {
+    width: 67%;
+    padding-top:1em;
+    margin:0px;
+  }
   > div {
     background: $sidebar-bg $noise-bg;
     border-bottom: 1px solid $page-border-bottom;
