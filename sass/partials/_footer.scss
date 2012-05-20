@@ -4,13 +4,16 @@ body > footer {
   text-align:right;
   color: $footer-color;
   text-shadow: $text-shadow;
-  background-color: $footer-bg;
-  background-image: -webkit-linear-gradient(right, $blue 14px, $white 15px);
-  border-right: 9px solid $yellow;
+  background-color: transparent;
+  background-size:10px 10px;
+  background-image:
+        -webkit-linear-gradient(45deg, hsla(0,0%,0%,0) 47%, $super-light-blue 48%, $super-light-blue 51%, hsla(0,0%,0%,0) 52%);
+  /*background-image: -webkit-linear-gradient(right, $blue 14px, $white 15px);
+  border-right: 9px solid $yellow;*/
   //@include background($footer-bg-front, $footer-bg-back);
   position: relative;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding-top: 0.7em;
+  padding-bottom: 0.7em;
   margin-top: 1em;
   margin-bottom: 3em;
   z-index: 1;

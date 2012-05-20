@@ -3,7 +3,7 @@ body > nav {
   background-color: $nav-bg;
   border: none;
   padding: 0px;
-  margin-bottom:2em;
+  margin-bottom:3em;
   form {
     @include background-clip(padding-box);
     margin: 0; padding: 0;
