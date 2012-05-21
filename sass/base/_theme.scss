@@ -3,14 +3,16 @@ $img-border: inline-image('dotted-border.png');
 
 //main site colours
 $blue: #0f75bc;
-$light-blue: lighten($blue, 30%);
-$dark-blue: darken($blue, 30%);
+$super-light-blue: lighten($blue, 40%);
+$light-blue: lighten($blue, 10%);
+$dark-blue: darken($blue, 10%);
 $green: #68bd45;
-$light-green: lighten($green, 30%);
-$dark-green: darken($green, 20%);
+$super-light-green: lighten($green, 40%);
+$light-green: lighten($green, 10%);
+$dark-green: darken($green, 10%);
 $yellow: #ffde16;
 $light-yellow: lighten($yellow, 20%);
-$white: #fbfbfb;
+$white: #fdfdfd;
 $dark-white: darken($white, 5%);
 $black: #333333;
 $light-black: lighten($black, 30%);
@@ -19,10 +21,10 @@ $light-black: lighten($black, 30%);
 $text-shadow: 1px 1px 0px #fff;
 
 // Main Link Colors
-$link-color: $green;
-$link-color-hover: $dark-green;
-$link-color-visited: $light-green;
-$link-color-active: $dark-green;
+$link-color: $blue;
+$link-color-hover: $light-blue;
+$link-color-visited: $blue;
+$link-color-active: $light-blue;
 
 // Main Section Colors
 $main-bg: $white !default;
@@ -31,8 +33,8 @@ $article-border: $white !default;
 
 $header-bg: $white !default;
 $header-border: $white !default;
-$title-color: $blue !default;
-$subtitle-color: $blue !default;
+$title-color: $green !default;
+$subtitle-color: $green !default;
 
 $text-color: $black !default;
 $text-color-light: $light-black !default;
@@ -42,14 +44,14 @@ $type-border: $black !default;
 $nav-bg: $white !default;
 $nav-bg-front: $white;
 $nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11)) !default;
-$nav-color: $green !default;
-$nav-color-hover: $blue !default;
+$nav-color: $blue !default;
+$nav-color-hover: $light-blue !default;
 $nav-placeholder: $blue !default;
 $nav-border: $white !default;
 $nav-border-top: $white !default;
 $nav-border-bottom: $white !default;
 $nav-border-left: $green !default;
-$nav-border-right: $light-black !default;
+$nav-border-right: $white !default;
 
 /* Sidebar colors */
 $sidebar-bg: $dark-white !default;
@@ -57,10 +59,10 @@ $sidebar-link-color: $link-color !default;
 $sidebar-link-color-hover: $link-color-hover !default;
 $sidebar-link-color-active: $link-color-active !default;
 $sidebar-color: $light-black !default;
-$sidebar-border: $light-black !default;
+$sidebar-border: $white !default;
 $sidebar-border-hover: $black !default;
-$sidebar-link-color-subdued: $light-green !default;
-$sidebar-link-color-subdued-hover: $green !default;
+$sidebar-link-color-subdued: $light-blue !default;
+$sidebar-link-color-subdued-hover: $blue !default;
 $twitter-status-link: $blue !default;
 
 $footer-color: $black !default;
@@ -88,7 +90,6 @@ a {
 }
 
 html {
-  background: $page-bg image-url('line-tile.png') top left;
   text-shadow: $text-shadow;
 }
 body {

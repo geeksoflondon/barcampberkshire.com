@@ -1,25 +1,15 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
-$hover: -webkit-linear-gradient(45deg, hsla(0,0%,0%,0) 47%, $light-blue 48%, $light-blue 51%, hsla(0,0%,0%,0) 52%);
+$hover: -webkit-linear-gradient(45deg, hsla(0,0%,0%,0) 47%, $super-light-green 48%, $super-light-green 51%, hsla(0,0%,0%,0) 52%);
 
 header > p {
-    border-left:9px solid $yellow;
-    background: transparent;
-    background-image: -webkit-linear-gradient(left, $blue 14px, $white 15px);
-    padding:12px 12px 12px 0px;
-    a {
-        padding: 4px 4px 4px 20px;
-        background:transparent;
-        background-size:8px 8px;
-        background-image:$hover; color:$blue;
+    a.green {
+        color: $green;
     }
     a:hover, a:active {
-        color:$green;
-        background-image:
-        -webkit-linear-gradient(45deg, hsla(0,0%,0%,0) 47%, $light-yellow 48%, $light-yellow 51%, hsla(0,0%,0%,0) 52%);
+        color: $light-green;
     }
-
 }
 
 nav ul.main-navigation {
@@ -30,15 +20,74 @@ nav ul.main-navigation li:first-child,
 nav ul.main-navigation li.first {
     border-left: 6px solid $nav-border-left;
     background-image: -webkit-linear-gradient(left, $blue 12px, $white 13px);
-    margin-left: .8em; padding:9px 9px 9px 0px;
+    margin-left:1em; padding:9px 9px 9px 0px;
       a {
-        padding: 3px 3px 3px 24px;
+        display: inline-block;
+        font-size:1.2em;
+        padding: 3px 10px 3px 24px;
         background:transparent;
         background-size:8px 8px;
         background-image:
-        -webkit-linear-gradient(45deg, hsla(0,0%,0%,0) 47%, $light-green 48%, $light-green 51%, hsla(0,0%,0%,0) 52%);
+        -webkit-linear-gradient(45deg, hsla(0,0%,0%,0) 47%, $super-light-blue 48%, $super-light-blue 51%, hsla(0,0%,0%,0) 52%);
       }
       a:hover, a:active {
         background-image: $hover;
+        color: $green;
       }
+}
+nav ul.main-navigation li:first-child,
+nav ul.main-navigation li.first {
+    margin-left:0px;
+}
+
+aside.sidebar {
+    font-size:1em;
+    background:none;
+    box-sizing:border-box;
+    padding:0px 1em 1em 1em;
+    section {
+        font-size:1em;
+        margin:0.5em 0px 2.5em;
+        padding:0.5em 0px 0.5em 1em;
+        border-left:8px solid $super-light-green;
+        h3 {
+            color: $green;
+        }
+        input[type="text"] {
+            display:inline-block;
+            box-sizing:border-box;
+            width:69%;
+            padding:0.8em;
+            border-radius:3px;
+            border:1px solid $light-black;
+            margin-bottom:1em;
+        }
+        label {
+            display:inline-block;
+            box-sizing:border-box;
+            width:30%;
+            padding:0.2em;
+            margin-bottom:1em;
+        }
+        input[type="submit"] {
+            border:none;
+            background:none;
+            padding:0.5em 0.8em;
+            color:$blue; font-size:1em; float:right;
+            background-size:10px 10px;
+            background-image:
+                -webkit-linear-gradient(45deg, hsla(0,0%,0%,0) 47%, $super-light-blue 48%, $super-light-blue 51%, hsla(0,0%,0%,0) 52%);
+        }
+        input[type="submit"]:hover {
+            cursor:pointer; color:$green;
+        }
+    }
+
+
+    #latest-tweets {
+        padding:1em;
+        h4 {color:$blue;}
+        #tweets li {border-bottom:1px dotted $light-blue;}
+    }
+
 }
