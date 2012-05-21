@@ -67,7 +67,6 @@ aside.sidebar {
             box-sizing:border-box;
             width:30%;
             padding:0.2em;
-            margin-bottom:1em;
         }
         input[type="submit"] {
             border:none;
@@ -85,7 +84,6 @@ aside.sidebar {
 
 
     #latest-tweets {
-        padding:1em;
         h4 {color:$blue;}
         #tweets li {border-bottom:1px dotted $light-blue;}
     }
