@@ -9,7 +9,7 @@ footer: true
 
 ## Driving
 
-We have prepared some directions here:
+We have parking for over one thousand cars in O2's expansive car park so feel free to drive, if you need help with directions:
 
 **Via M4** - [http://g.co/maps/gjwyn](Map)
 
@@ -19,9 +19,7 @@ If your using your Sat Nav you should use:
 
 *260 Bath Road, Slough, SL1 4DX*
 
-**Parking**  
-
-Yes! We have parking for over one thousand cars in O2's expansive car park. 
+<iframe align="center" width="300" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=SL1+4DX&amp;aq=&amp;sll=53.800651,-4.064941&amp;sspn=18.388688,39.331055&amp;ie=UTF8&amp;hq=&amp;hnear=Slough+SL1+4DX,+United+Kingdom&amp;t=m&amp;ll=51.527009,-0.629482&amp;spn=0.01602,0.025749&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br/><br/>
 
 ## Public Transport
 
@@ -35,9 +33,12 @@ It will run every 15 minutes during peak and every hour outside of these times.
 
 Direct trains run from London Paddington to Slough in just under 20 minutes. 
 
-The following recommended fast departures are 08:50, 09:21 and 09:50 on the Saturday Morning.
-
 Their will be no underground service for London Paddington H&C / Circle line platforms due to CrossRail works, however the Bakerloo and District Line platforms are unaffected. 
+
+*Fast Departures From London Paddington*  
+08:50  
+09:21  
+09:50  
 
 **Trains from West Country & South Wales**
 
