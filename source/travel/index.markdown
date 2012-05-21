@@ -27,7 +27,7 @@ If your using your Sat Nav you should use:
 
 We will be running a shuttle service from Slough station to the O2 campus throughout the weekend.
 
-It will run every 15 minutes during peak and every hour outside of these times.
+The timetable will be published shortly.
 
 **Trains from London**
 
@@ -39,6 +39,8 @@ Their will be no underground service for London Paddington H&C / Circle line pla
 08:50  
 09:21  
 09:50  
+
+For help planning your journey consult: [http://www.tfl.gov.uk](Transport for London)
 
 **Trains from West Country & South Wales**
 
@@ -68,3 +70,5 @@ Change trains to the 09:20 to London Paddington stopping service to arrive at 09
 08:58 - Reading
 
 Change trains to the 09:20 to London Paddington stopping service to arrive at 09:40 in Slough.
+
+For help planning your journey consult: [http://www.nationalrail.co.uk/](National Rail)
