@@ -84,10 +84,19 @@ aside.sidebar {
 
 
     #latest-tweets {
+        width:100%;
         h4 {color:$blue;}
         #tweets li {border-bottom:1px dotted $light-blue;}
     }
 
 }
 
-#content div {margin:0px; padding:0px 55px 0px 0px; width:63%; box-sizing:border-box;}
+#content div {
+    margin:0px; padding:0px 55px 0px 0px; width:63%; box-sizing:border-box;
+    article {
+        header {
+            h1 {margin:0px; font-size:2em; color:$blue;}
+        }
+        h2, h3, h4, h5, h6 {padding:0px; margin:0px 0px 0.6em 0px; color:$blue;}
+    }
+}
