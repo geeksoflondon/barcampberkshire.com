@@ -15,4 +15,9 @@ body > header {
     color: $subtitle-color;
     font-weight: normal;
   }
+
+  &.fat {
+    height: 424px;
+    background: $fat-header-bg;
+  }
 }
