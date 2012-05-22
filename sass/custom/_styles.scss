@@ -21,8 +21,7 @@ nav ul.main-navigation li:first-child,
 nav ul.main-navigation li.first {
     border-left: 6px solid $nav-border-left;
     background-image: -webkit-linear-gradient(left, $blue 12px, $white 13px);
-    width:130px;
-    margin-left:0px; padding:9px 0px 9px 0px;
+    margin-left:0px; padding:9px 9px 9px 0px;
       a {
         display: inline-block;
         font-size:1.2em;
@@ -104,4 +103,33 @@ aside.sidebar {
         h2, h3, h4, h5, h6 {padding:0px; margin:0px 0px 0.6em 0px; color:$blue;}
     }
 }
-#content .blog-index article div {width:100%;}
+#content .blog-index article div {width:100%; padding-right:0px;}
+
+
+//media query overwrite
+@media only screen and (max-width: 1145px) {
+  body > header h2 {font-size:0.9em; margin-top:-20px;}
+
+}
+@media only screen and (min-width: 992px) {
+    nav ul.main-navigation li,
+    nav ul.main-navigation li:first-child,
+    nav ul.main-navigation li.first {
+        padding-right:30px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    #content .blog-index {padding-right:25px;}
+}
+@media only screen and (max-width: 550px) {
+    nav ul.main-navigation li,
+    nav ul.main-navigation li:first-child,
+    nav ul.main-navigation li.first {
+        width:130px;
+        padding-right:0px;
+        #content {float:none; width:100%;}
+        #content .blog-index {float:none; width:100%; padding-right:0px;}
+        #content aside.side-bar {float:none; width:100%;}
+    }
+
+}

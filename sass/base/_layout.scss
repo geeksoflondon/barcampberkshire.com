@@ -122,11 +122,11 @@ body.sidebar-footer {
   .toggle-sidebar { display: none; }
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 600px) {
   body {padding: 0px $pad-min;}
   body > header { font-size: $header-font-size; }
 }
-@media only screen and (min-width: 550px) {
+@media only screen and (min-width: 600px) {
   body {padding: 0px $pad-narrow;}
   body > header { font-size: $header-font-size; }
 }
@@ -148,6 +148,7 @@ body.sidebar-footer {
       padding-bottom: $pad-medium/2;
       float: left;
     }
+    .blog-index {padding-right:25px;}
   }
   aside.sidebar {
     @extend .group;
@@ -182,6 +183,8 @@ body.sidebar-footer {
     }
   }
 }
+
+
 
 @if $indented-lists == false {
   @media only screen and (min-width: 768px) {
