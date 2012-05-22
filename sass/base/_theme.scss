@@ -18,7 +18,7 @@ $black: #333333;
 $light-black: lighten($black, 30%);
 
 //some repeated styles
-$text-shadow: 1px 1px 0px #fff;
+$text-shadow: 0px 2px 2px #fff;
 
 // Main Link Colors
 $link-color: $blue;
@@ -90,9 +90,10 @@ a {
 }
 
 html {
-  text-shadow: $text-shadow;
+
 }
 body {
+  text-shadow: $text-shadow;
   > header h2 {
     width: 67%;
     padding-top:1em;

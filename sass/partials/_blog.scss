@@ -88,7 +88,11 @@ article + article {
     &:hover {
       color: $light-green;
     }
+    div {
+      width:100%;
+    }
   }
+
   footer {
     @extend .sans;
     margin-top: 1em;

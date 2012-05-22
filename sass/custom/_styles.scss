@@ -3,6 +3,7 @@
 
 $hover: -webkit-linear-gradient(45deg, hsla(0,0%,0%,0) 47%, $super-light-green 48%, $super-light-green 51%, hsla(0,0%,0%,0) 52%);
 
+header {overflow:hidden;}
 header > p {
     a.green {
         color: $green;
@@ -20,13 +21,14 @@ nav ul.main-navigation li:first-child,
 nav ul.main-navigation li.first {
     border-left: 6px solid $nav-border-left;
     background-image: -webkit-linear-gradient(left, $blue 12px, $white 13px);
-    margin-left:1em; padding:9px 9px 9px 0px;
+    width:130px;
+    margin-left:0px; padding:9px 0px 9px 0px;
       a {
         display: inline-block;
         font-size:1.2em;
         padding: 3px 10px 3px 24px;
         background:transparent;
-        background-size:8px 8px;
+        background-size:10px 10px;
         background-image:
         -webkit-linear-gradient(45deg, hsla(0,0%,0%,0) 47%, $super-light-blue 48%, $super-light-blue 51%, hsla(0,0%,0%,0) 52%);
       }
@@ -84,9 +86,11 @@ aside.sidebar {
 
 
     #latest-tweets {
+        padding:0px 0px 0px 5%;
         width:100%;
-        h4 {color:$blue;}
-        #tweets li {border-bottom:1px dotted $light-blue;}
+        margin-bottom:0.7em;
+        h4 {color:$blue; margin-bottom:0.5em;}
+        #tweets li {border-bottom:1px dotted $light-blue; line-height:120%;}
     }
 
 }

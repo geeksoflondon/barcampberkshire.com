@@ -45,6 +45,7 @@ $header-padding-bottom: 1.5em !default;
 }
 
 body {
+  background: $white;
   -webkit-text-size-adjust: none;
   max-width: $max-width;
   position: relative;
@@ -161,7 +162,13 @@ body.sidebar-footer {
 }
 
 @media only screen and (min-width: 992px) {
-  body > header { font-size: $header-font-size * 1.2 }
+  body > header {
+    font-size: $header-font-size * 1.2;
+    hgroup {
+      h1 {float:left;}
+      h2 {width:37%; float:right; margin-top:0px; padding-top:0px;}
+      }
+    }
   #content {
     > div, > article {
       padding-top: $pad-wide/2;
