@@ -31,9 +31,9 @@ The timetable will be published shortly.
 
 **Trains from London**
 
-Direct trains run from London Paddington to Slough in just under 20 minutes. 
+Direct trains run from London Paddington to Slough and take just under 20 minutes. 
 
-Their will be no underground service for London Paddington H&C / Circle line platforms due to CrossRail works, however the Bakerloo and District Line platforms are unaffected. 
+Their will be no Underground service on the Hammersmith and City / Circle lines platforms at London Paddington due to CrossRail works, however the Bakerloo and District Line platforms are unaffected. 
 
 *Fast Departures From London Paddington*  
 08:50  
@@ -44,7 +44,7 @@ For help planning your journey consult: [http://www.tfl.gov.uk](Transport for Lo
 
 **Trains from West Country & South Wales**
 
-On weekends their are no direct trains to Slough and you will need to change at Reading.
+On weekends there are no direct trains to Slough and you will need to change at Reading.
 
 *From South Wales via Bristol Parkway*  
 
