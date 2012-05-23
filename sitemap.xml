@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://geeksoflondon.github.com/barcampberkshire/blog/2012/05/23/big-news-great-success/
+        </loc>
+        <lastmod>2012-05-23T16:14:09+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geeksoflondon.github.com/barcampberkshire/about/</loc>
+        <lastmod>2012-05-23T16:14:09+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geeksoflondon.github.com/barcampberkshire/blog/archives/</loc>
+        <lastmod>2012-05-23T16:14:09+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geeksoflondon.github.com/barcampberkshire/</loc>
+        <lastmod>2012-05-23T16:14:09+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geeksoflondon.github.com/barcampberkshire/sponsors/</loc>
+        <lastmod>2012-05-23T16:14:09+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geeksoflondon.github.com/barcampberkshire/travel/</loc>
+        <lastmod>2012-05-23T16:14:09+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geeksoflondon.github.com/barcampberkshire/venue/</loc>
+        <lastmod>2012-05-23T16:14:09+01:00</lastmod>
+    </url>
+</urlset>

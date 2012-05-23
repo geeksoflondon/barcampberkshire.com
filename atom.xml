@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[BarCamp Berkshire]]></title>
+  <link href="http://geeksoflondon.github.com/barcampberkshire/atom.xml" rel="self"/>
+  <link href="http://geeksoflondon.github.com/barcampberkshire/"/>
+  <updated>2012-05-23T16:15:18+01:00</updated>
+  <id>http://geeksoflondon.github.com/barcampberkshire/</id>
+  <author>
+    <name><![CDATA[Geeks of London Ltd]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Great News, Huge Success!]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/05/23/big-news-great-success/"/>
+    <updated>2012-05-23T14:52:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/05/23/big-news-great-success</id>
+    <content type="html"><![CDATA[<p>We’re happy to announce that BarCamp Berkshire will be held at O2&#8217;s Headquarters in Slough this July 7th and 8th.</p>
+
+<p>The first round of tickets will be available this Friday (25th May) at 10am! We hope to see lots of you there.</p>
+]]></content>
+  </entry>
+  
+</feed>
