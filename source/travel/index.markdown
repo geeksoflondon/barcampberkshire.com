@@ -11,9 +11,9 @@ footer: true
 
 We have parking for over one thousand cars in O2's expansive car park so feel free to drive; if you need help with directions:
 
-**Via M4** - [http://g.co/maps/gjwyn](Map)
+**Via M4** - [Map](http://g.co/maps/gjwyn)
 
-**Via M40** - [http://g.co/maps/8twd2](Map)
+**Via M40** - [Map](http://g.co/maps/8twd2)
 
 If you're using your Sat Nav, you should use:
 
@@ -31,16 +31,16 @@ The timetable will be published shortly.
 
 **Trains from London**
 
-Direct trains run from London Paddington to Slough in just under 20 minutes.
+Direct trains run from London Paddington to Slough and take just under 20 minutes. 
 
-There will be no underground service for London Paddington H&C / Circle line platforms due to CrossRail works, however the Bakerloo and District Line platforms are unaffected.
+Their will be no Underground service on the Hammersmith and City / Circle lines platforms at London Paddington due to CrossRail works, however the Bakerloo and District Line platforms are unaffected. 
 
 *Fast Departures From London Paddington*  
 08:50  
 09:21  
 09:50  
 
-For help planning your journey consult: [http://www.tfl.gov.uk](Transport for London)
+For help planning your journey consult: [Transport for London](http://www.tfl.gov.uk)
 
 **Trains from West Country & South Wales**
 
@@ -71,4 +71,4 @@ Change trains to the 09:20 to London Paddington stopping service to arrive at 09
 
 Change trains to the 09:20 to London Paddington stopping service to arrive at 09:40 in Slough.
 
-For help planning your journey consult: [http://www.nationalrail.co.uk/](National Rail)
+For help planning your journey consult: [National Rail](http://www.nationalrail.co.uk/)
