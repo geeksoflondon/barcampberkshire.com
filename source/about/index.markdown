@@ -7,7 +7,7 @@ sharing: false
 footer: true
 ---
 
-If you have never been to a BarCamp before, we would love you to come along to BarCamp London 9! It's great fun and we are always looking for new folks to attend - BarCamp is all about the people.
+If you have never been to a BarCamp before, we would love you to come along to BarCamp Berskhire! It's great fun and we are always looking for new folks to attend - BarCamp is all about the people.
 
 ## What Happens at a BarCamp?  
 

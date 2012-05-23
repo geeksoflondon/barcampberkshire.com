@@ -9,13 +9,13 @@ footer: true
 
 ## Driving
 
-We have parking for over one thousand cars in O2's expansive car park so feel free to drive, if you need help with directions:
+We have parking for over one thousand cars in O2's expansive car park so feel free to drive; if you need help with directions:
 
 **Via M4** - [Map](http://g.co/maps/gjwyn)
 
 **Via M40** - [Map](http://g.co/maps/8twd2)
 
-If your using your Sat Nav you should use:
+If you're using your Sat Nav, you should use:
 
 *260 Bath Road, Slough, SL1 4DX*
 
