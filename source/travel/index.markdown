@@ -9,13 +9,13 @@ footer: true
 
 ## Driving
 
-We have parking for over one thousand cars in O2's expansive car park so feel free to drive, if you need help with directions:
+We have parking for over one thousand cars in O2's expansive car park so feel free to drive; if you need help with directions:
 
 **Via M4** - [http://g.co/maps/gjwyn](Map)
 
 **Via M40** - [http://g.co/maps/8twd2](Map)
 
-If your using your Sat Nav you should use:
+If you're using your Sat Nav, you should use:
 
 *260 Bath Road, Slough, SL1 4DX*
 
@@ -31,9 +31,9 @@ The timetable will be published shortly.
 
 **Trains from London**
 
-Direct trains run from London Paddington to Slough in just under 20 minutes. 
+Direct trains run from London Paddington to Slough in just under 20 minutes.
 
-Their will be no underground service for London Paddington H&C / Circle line platforms due to CrossRail works, however the Bakerloo and District Line platforms are unaffected. 
+There will be no underground service for London Paddington H&C / Circle line platforms due to CrossRail works, however the Bakerloo and District Line platforms are unaffected.
 
 *Fast Departures From London Paddington*  
 08:50  
@@ -44,7 +44,7 @@ For help planning your journey consult: [http://www.tfl.gov.uk](Transport for Lo
 
 **Trains from West Country & South Wales**
 
-On weekends their are no direct trains to Slough and you will need to change at Reading.
+On weekends there are no direct trains to Slough and you will need to change at Reading.
 
 *From South Wales via Bristol Parkway*  
 
