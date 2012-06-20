@@ -37,7 +37,7 @@ After this the buses will run on the hour from 1pm till 6pm with buses leave O2 
 
 After this the buses will run on the hour from 1pm till 3pm with buses leave O2 approximately 10 to the hour.
 
-*Sunday departing O2*
+*Sunday departing O2*  
 16:00, 16:15, 16:30, 16:45, 17:00, 17:15, 17:30
 
 **Trains from London**
