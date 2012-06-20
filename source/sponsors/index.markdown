@@ -9,7 +9,7 @@ footer: true
 <br><br>
 ## TheLab powered by O2
 
-![TheLab]({{ root_url }}/assets/thelab_logo.jpg)
+![TheLab]({{ root_url }}/assets/thelab_logo.png)
 
 The Lab is a team within O2 that was created to help drive innovation across the O2 business and provide a means of trying out new product services ideas quickly via Proof of Concepts and Betas. Ideas will not only come from within the team, but also across all of O2.
 

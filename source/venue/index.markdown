@@ -16,9 +16,7 @@ footer: true
 Slough  
 SL1 4DX
 
-## Facilities
-
-- Over twenty meeting rooms and breakout areas
+## The session spaces
 - All meeting rooms have displays, speakers and smart boards.
 - Mini kitchens stocked with drinks, sweets and snacks.
 
