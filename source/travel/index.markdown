@@ -27,7 +27,18 @@ If you're using your Sat Nav, you should use:
 
 We will be running a shuttle service from Slough station to the O2 campus throughout the weekend.
 
-The timetable will be published shortly.
+*Saturday departing Slough Station*  
+09:00, 09:15, 09:30, 09:45, 10:00, 10:15, 10:30, 10:45, 11:00  
+
+After this the buses will run on the hour from 1pm till 6pm with buses leave O2 approximately 10 to the hour.
+
+*Sunday departing Slough Station*  
+09:00, 09:30, 10:00, 10:30
+
+After this the buses will run on the hour from 1pm till 3pm with buses leave O2 approximately 10 to the hour.
+
+*Sunday departing O2*
+16:00, 16:15, 16:30, 16:45, 17:00, 17:15, 17:30
 
 **Trains from London**
 
