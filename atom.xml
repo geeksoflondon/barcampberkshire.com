@@ -4,7 +4,7 @@
   <title><![CDATA[BarCamp Berkshire]]></title>
   <link href="http://geeksoflondon.github.com/barcampberkshire/atom.xml" rel="self"/>
   <link href="http://geeksoflondon.github.com/barcampberkshire/"/>
-  <updated>2012-06-21T14:53:23+01:00</updated>
+  <updated>2012-06-21T16:59:47+01:00</updated>
   <id>http://geeksoflondon.github.com/barcampberkshire/</id>
   <author>
     <name><![CDATA[Geeks of London Ltd]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Getting to BarCamp]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/22/getting-to-barcamp/"/>
+    <updated>2012-06-22T10:00:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/22/getting-to-barcamp</id>
+    <content type="html"><![CDATA[<p>BarCamp Berkshire is just over two weeks away and with the options including trains, planes and automobiles, we have added full details on all of them to our <a href="travel">travel</a> page.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Great News, Huge Success!]]></title>
