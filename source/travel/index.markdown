@@ -28,7 +28,7 @@ If you're using your Sat Nav, you should use:
 We will be running a shuttle service from Slough station to the O2 campus throughout the weekend.
 
 *Saturday departing Slough Station*  
-09:00, 09:15, 09:30, 09:45, 10:00, 10:15, 10:30, 10:45, 11:00  
+09:00, 09:15, 09:30, 09:45, 10:00, 10:15, 10:30, 10:45, 11:00
 
 After this the buses will run on the hour from 1pm till 6pm with buses leave O2 approximately 10 to the hour.
 
@@ -40,16 +40,19 @@ After this the buses will run on the hour from 1pm till 3pm with buses leave O2 
 *Sunday departing O2*  
 16:00, 16:15, 16:30, 16:45, 17:00, 17:15, 17:30
 
+
 **Trains from London**
 
 Direct trains run from London Paddington to Slough and take just under 20 minutes. 
 
-Their will be no Underground service on the Hammersmith and City / Circle lines platforms at London Paddington due to CrossRail works, however the Bakerloo and District Line platforms are unaffected. 
+Their will be no Underground service on the Circle line to Paddington however the Hammersmith & City, Bakerloo and District Lines will be operating as normal.
 
 *Fast Departures From London Paddington*  
 08:50  
 09:21  
 09:50  
+
+You can add yourself to one of the services [here](http://bit.ly/NXSlPp) and we will try our best to help with GroupSave fares.
 
 For help planning your journey consult: [Transport for London](http://www.tfl.gov.uk)
 
