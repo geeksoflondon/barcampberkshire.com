@@ -1,13 +1,10 @@
 ---
 layout: page
 title: "How do the sessions work?"
-date: 2012-05-21 11:17
-comments: false
-sharing: false
+comments: true
+sharing: true
 footer: true
 ---
-
-<br><br>
 
 Unlike traditional conferences, the schedule for sessions at a BarCamp are decided by the participants. After registering and collecting your badge, you'll have a chance to go fill out the schedule grid.
 
