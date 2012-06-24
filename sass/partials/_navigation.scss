@@ -1,23 +1,26 @@
 body > nav {
   position: relative;
   background-color: $nav-bg;
-  border: none;
-  padding: 0px;
-  margin-bottom:3em;
+  padding-top: .35em;
+  padding-bottom: .35em;
+
+  img {
+    height: 0.8em;
+  }
+
   form {
     @include background-clip(padding-box);
     margin: 0; padding: 0;
     .search {
       padding: .3em .5em 0;
       font-size: .85em;
-      @extend .sans;
+      font-family: $sans;
       line-height: 1.1em;
       width: 95%;
-      @include border-radius(.5em);
       @include background-clip(padding-box);
       @include box-shadow(lighten($nav-bg, 2) 0 1px);
       background-color: lighten($nav-bg, 15);
-      border: 1px solid $nav-border;
+      border: 1px solid $nav-bg;
       color: #888;
       &:focus {
         color: #444;
@@ -39,6 +42,7 @@ body > nav {
       @include horizontal-list(0);
       float: left;
       display: block;
+      padding-top: .15em;
     }
     ul.subscription {
       margin-left: .8em;
@@ -50,13 +54,19 @@ body > nav {
     }
     a {
       @include link-colors($nav-color, $nav-color-hover, $visited: $nav-color);
-      @extend .sans;
+      font-family: $sans;
       text-shadow: lighten($nav-bg, 12) 0 1px;
       float: left;
       text-decoration: none;
       font-size: 1.1em;
-      padding: .5em 0;
+      padding: .1em 0;
       line-height: 1.5em;
+    }
+    li + li {
+      margin-left: .8em;
+      a {
+        padding-left: .8em;
+      }
     }
     form {
       float: right;
@@ -94,7 +104,6 @@ body > nav {
 @mixin mask-subscription-nav($feed: 'rss.png'){
   position: relative; top: 0px;
   text-indent: -999999em;
-  background-color: $nav-border-right;
   border: 0;
   padding: 0;
   &,&:after { @include mask-image($feed); }
@@ -107,7 +116,7 @@ body > nav {
 }
 .maskImage {
   body > nav {
-    /*@media only screen and (min-width: 550px) {
+    @media only screen and (min-width: 550px) {
       ul[data-subscription$=email] + form {
         width: $sidebar-width-medium - $pad-medium*2 - $sidebar-pad-medium - 32px;
       }
@@ -116,9 +125,41 @@ body > nav {
       ul[data-subscription$=email] + form {
         width: $sidebar-width-wide - $pad-wide - $sidebar-pad-wide*2 - 32px;
       }
-    }*/
+    }
   }
   ul.subscription { position: relative; top: .2em; li, a { border: 0; padding: 0; }}
   a[rel=subscribe-rss]{ @include mask-subscription-nav('rss.png'); }
   a[rel=subscribe-email]{ @include mask-subscription-nav('email.png'); }
 }
+
+a.button {
+  background-color: rgb(200,113,0); // Old browsers
+  @include filter-gradient(#c87100, #915511, vertical); // IE6-9
+  @include background-image(linear-gradient(top,  rgba(200,113,0,1) 0%,rgba(145,85,17,1) 100%));
+  color: #fff;
+  border: 1px solid #401406;
+  border-radius: 5px;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+.ctas {
+  list-style-type: none;
+  $cta-color: #67BD45;
+  background-color: $cta-color;
+  overflow: auto;
+  margin: 0px;
+  padding-left: 6%;
+
+  li {
+    float: left;
+
+    a{
+      text-decoration: none;
+      float: left;
+      padding: 5px 30px 5px 0px;
+      color: lighten($cta-color, 50);
+    }
+  }
+}
+

@@ -2,20 +2,13 @@
 // To give it a try, uncomment some of the lines below rebuild your blog, and see how it works.
 // If you need a handy color picker try http://hslpicker.com
 
-//WE ARE NOT USING THIS FILE PLEASE SEE THEME
-
-//$header-bg: transparent;
-//$subtitle-color: $blue;
-//$nav-bg: transparent;
-//$nav-bg-front: image-url('noise.png');
-//$nav-bg-back: linear-gradient(#68bd45, #0f75bc);
-//$sidebar-bg: #efefef image-url('noise.png') repeat //top left;
-//$sidebar-link-color: #68bd45;
-//$sidebar-link-color-hover: darken(#68bd45, 9);
+//$header-bg: #263347;
+//$subtitle-color: lighten($header-bg, 58);
+//$nav-bg: desaturate(lighten(#8fc17a, 18), 5);
+//$sidebar-bg: desaturate(#eceff5, 8);
+//$sidebar-link-color: saturate(#526f9a, 10);
+//$sidebar-link-color-hover: darken(#7ab662, 9);
 //$footer-bg: #ccc !default;
-//$footer-bg-front: image-url('noise.png');
-//$footer-bg-back: linear-gradient(#68bd45, #0f75bc);
-
 
 /* To use the light Solarized highlighting theme uncomment the following line */
 //$solarized: light;
