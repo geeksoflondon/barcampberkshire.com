@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TheLab"
+title: "Sponsor: TheLab"
 date: 2012-05-21 11:17
 image: /images/sponsors/thelab.jpg
 category: Sponsor
