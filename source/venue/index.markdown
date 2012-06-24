@@ -1,20 +1,19 @@
 ---
 layout: page
 title: "Venue"
-date: 2012-05-21 11:17
-comments: false
-sharing: false
+comments: true
+sharing: true
 footer: true
 ---
 
-![O2 260 Bath Road]({{ root_url }}/assets/bathrd_small.jpg)
+![O2 260 Bath Road](/images/pages/bathrd_small.jpg)
 
 ## Where
 
 **O2 UK Headquarters**  
 260 Bath Road  
 Slough  
-SL1 4DX
+SL1 4DX  
 
 ## Facilities
 

@@ -1,29 +1,39 @@
 article {
-  padding-bottom: 1.2em;
+  padding-top: 1em;
   a { @extend .force-wrap; }
   header {
     position: relative;
+    padding-top: 2em;
     padding-bottom: 1em;
-    overflow:hidden;
-    h2 {
-      border:none; margin:0; padding:0px; float:left;
-      a { text-decoration:none; background:none; color:$blue;
-        &:hover {color:$light-blue;}
-      }
+    margin-bottom: 1em;
+    background: $img-border bottom left repeat-x;
+    h1 {
+      margin: 0;
+      a { text-decoration: none;
+        &:hover { text-decoration: underline; } }
     }
     p {
       font-size: .9em;
-      color: $black;
+      color: $text-color-light;
       margin: 0;
       &.meta {
         @extend .sans;
-        padding:0px; float:right; background:none; border:none;
-        font-size:80%;
+        text-transform: uppercase;
+        position: absolute; top: 0;
       }
     }
     @media only screen and (min-width: 768px) {
+      margin-bottom: 1.5em;
+      padding-bottom: 1em;
+      background: $img-border bottom left repeat-x;
     }
   }
+  h2 {
+    padding-top: 0.8em;
+    background: $img-border top left repeat-x;
+  }
+  .entry-content & h2:first-child, header + h2 { padding-top: 0; }
+  h2:first-child, header + h2 { background: none; }
   .feature {
     padding-top: .5em;
     margin-bottom: 1em;
@@ -57,7 +67,8 @@ article {
     }
   }
   > footer {
-    margin-top: 1em;
+    padding-bottom: 2.5em;
+    margin-top: 2em;
     @extend .sans;
     p.meta {
       margin-bottom: .8em;
@@ -73,26 +84,32 @@ article {
 }
 article + article {
   .blog-index & {
+    background: $img-border top left repeat-x;
   }
 }
 #content .blog-index {
-  width:63%; padding-right:$pad-wide; padding-top:0px; float:left; box-sizing:border-box;
+  padding: { top: 0; bottom: 0; }
+  article { padding-top: 2em; }
+  article header { background: none; padding-bottom: 0; }
+  article h1 {
+    font-size: 2.2em;
+    a { color: inherit; &:hover { color: $link-color-hover; } }
+  }
   a[rel=full-article] {
+    background: darken($main-bg, 5);
     display: inline-block;
-    padding:0px;
-    margin-right:0px;
+    padding: .4em .8em;
+    margin-right: .5em;
     text-decoration: none;
-    color: $green;
-    float: right;
+    color: mix($text-color, $text-color-light);
+    @extend .serif;
     @include transition(background-color .5s);
     &:hover {
-      color: $light-green;
-    }
-    div {
-      width:100%;
+      background: $link-color-hover;
+      text-shadow: none;
+      color: $main-bg;
     }
   }
-
   footer {
     @extend .sans;
     margin-top: 1em;

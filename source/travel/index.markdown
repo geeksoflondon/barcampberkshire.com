@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Travel"
-date: 2012-05-21 11:17
-comments: false
-sharing: false
+comments: true
+sharing: true
 footer: true
 ---
 
@@ -23,65 +22,68 @@ If you're using your Sat Nav, you should use:
 
 ## Public Transport
 
-**The BarCamp Shuttle**
+### The BarCamp Shuttle
 
 We will be running a shuttle service from Slough station to the O2 campus throughout the weekend.
 
-*Saturday departing Slough Station*  
+#### Saturday departing Slough Station
+
 09:00, 09:15, 09:30, 09:45, 10:00, 10:15, 10:30, 10:45, 11:00
 
 After this the buses will run on the hour from 1pm till 6pm with buses leave O2 approximately 10 to the hour.
 
-*Sunday departing Slough Station*  
+####  Sunday departing Slough Station
+
 09:00, 09:30, 10:00, 10:30
 
 After this the buses will run on the hour from 1pm till 3pm with buses leave O2 approximately 10 to the hour.
 
-*Sunday departing O2*  
+#### Sunday departing O2
+
 16:00, 16:15, 16:30, 16:45, 17:00, 17:15, 17:30
 
+### Trains from London
 
-**Trains from London**
-
-Direct trains run from London Paddington to Slough and take just under 20 minutes. 
+Direct trains run from London Paddington to Slough and take just under 20 minutes.
 
 Their will be no Underground service on the Circle line to Paddington however the Hammersmith & City, Bakerloo and District Lines will be operating as normal.
 
-*Fast Departures From London Paddington*  
-08:50  
-09:21  
-09:50  
+#### Fast Departures From London Paddington
+
+    08:50
+    09:21
+    09:50
 
 You can add yourself to one of the services [here](http://bit.ly/NXSlPp) and we will try our best to help with GroupSave fares.
 
 For help planning your journey consult: [Transport for London](http://www.tfl.gov.uk)
 
-**Trains from West Country & South Wales**
+### Trains from West Country & South Wales
 
 On weekends there are no direct trains to Slough and you will need to change at Reading.
 
-*From South Wales via Bristol Parkway*  
+#### From South Wales via Bristol Parkway
 
-06:28 - Swansea  
-06:39 - Neath  
-06:47 - Port Talbot Parkway
-06:59 - Bridgend  
-07:22 - Cardiff Central  
-07:39 - Newport  
-07:59 - Bristol Parkway  
-08:27 - Swindon  
-08:46 - Didcot 
-09:00 - Reading 
+    06:28 - Swansea
+    06:39 - Neath
+    06:47 - Port Talbot Parkway
+    06:59 - Bridgend
+    07:22 - Cardiff Central
+    07:39 - Newport
+    07:59 - Bristol Parkway
+    08:27 - Swindon
+    08:46 - Didcot
+    09:00 - Reading
 
 Change trains to the 09:20 to London Paddington stopping service to arrive at 09:40 in Slough.
 
-*From West Country via Bristol Temple Meads*
+#### From West Country via Bristol Temple Meads
 
-08:00 - Bristol Temple Meads  
-08:11 - Bath Spa  
-08:24 - Chippenham  
-08:39 - Swindon  
-08:58 - Reading
+    08:00 - Bristol Temple Meads
+    08:11 - Bath Spa
+    08:24 - Chippenham
+    08:39 - Swindon
+    08:58 - Reading
 
 Change trains to the 09:20 to London Paddington stopping service to arrive at 09:40 in Slough.
 

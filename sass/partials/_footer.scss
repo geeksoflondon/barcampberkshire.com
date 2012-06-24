@@ -1,28 +1,16 @@
 body > footer {
   @extend .sans;
   font-size: .8em;
-  text-align:right;
   color: $footer-color;
-  text-shadow: $text-shadow;
-  background-color: transparent;
-  background-size:10px 10px;
-  background-image:
-        -webkit-linear-gradient(45deg, hsla(0,0%,0%,0) 47%, $super-light-blue 48%, $super-light-blue 51%, hsla(0,0%,0%,0) 52%);
-  /*background-image: -webkit-linear-gradient(right, $blue 14px, $white 15px);
-  border-right: 9px solid $yellow;*/
-  //@include background($footer-bg-front, $footer-bg-back);
+  text-shadow: lighten($footer-bg, 5) 0 1px;
+  background-color: $footer-bg;
   position: relative;
-  padding-top: 0.7em;
-  padding-bottom: 0.7em;
-  margin-top: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
   margin-bottom: 3em;
   z-index: 1;
   a {
     @include link-colors($footer-link-color, $footer-link-color-hover, $visited: $footer-link-color);
-    padding: 4px 20px 4px 4px;
-    background: transparent;
-    background-size: 8px 8px;
-    backgound-image: -webkit-linear-gradient(45deg, hsla(0,0%,0%,0) 47%, $light-yellow 48%, $light-yellow 51%, hsla(0,0%,0%,0) 52%);
   }
   p:last-child { margin-bottom: 0; }
 }
