@@ -6,6 +6,7 @@ comments: false
 sharing: false
 footer: true
 ---
+
 <br><br>
 # How do the sessions work?
 
@@ -15,13 +16,11 @@ Pick a topic to talk about – you can talk about absolutely anything, previous 
 
 Don’t worry if you don’t understand any of the above. The BarCamp Crew will be on hand to answer any questions you have.
 
-##Schedule
-
 ###Saturday
-<table>
+<table style="width:100%; margin-bottom: 1em;">
 <tbody>
 <tr>
-<th>08:50</th>
+<th style="width:15%;">08:50</th>
 <td>Trains depart Paddington</td>
 </tr>
 <tr>
@@ -75,9 +74,9 @@ Don’t worry if you don’t understand any of the above. The BarCamp Crew will 
 </tbody></table>
 
 ###Sunday
-<table>
+<table style="width:100%; margin-bottom: 1em;">
 <tbody><tr>
-<th>(GMT) 08:00</th>
+<th style="width:15%;">08:00</th>
 <td>Breakfast</td>
 </tr>
 <tr>
