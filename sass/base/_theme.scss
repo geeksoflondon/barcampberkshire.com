@@ -1,4 +1,4 @@
-$noise-bg: image-url('noise.png') top left !default;
+$noise-bg: image-url('/images/noise.png') top left !default;
 $img-border: inline-image('dotted-border.png');
 
 // Main Link Colors
@@ -63,7 +63,7 @@ a {
 }
 
 html {
-  background: $page-bg image-url('line-tile.png') top left;
+  background: $page-bg image-url('/images/line-tile.png') top left;
 }
 body {
   > div {
