@@ -2,42 +2,60 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>
-            http://geeksoflondon.github.com/barcampberkshire/blog/2012/05/23/big-news-great-success/
+            http://geeksoflondon.github.com/barcampberkshire/blog/2012/04/25/big-news-great-success/
         </loc>
-        <lastmod>2012-05-23T16:14:09+01:00</lastmod>
+        <lastmod>2012-06-24T21:32:39+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geeksoflondon.github.com/barcampberkshire/blog/2012/05/21/thelab/</loc>
+        <lastmod>2012-06-24T21:32:39+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/22/getting-to-barcamp/
         </loc>
-        <lastmod>2012-06-21T16:59:43+01:00</lastmod>
+        <lastmod>2012-06-24T21:32:39+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/24/sponsor-techsmith/
+        </loc>
+        <lastmod>2012-06-24T21:32:39+01:00</lastmod>
     </url>
     <url>
         <loc>http://geeksoflondon.github.com/barcampberkshire/about/</loc>
-        <lastmod>2012-05-23T16:14:09+01:00</lastmod>
+        <lastmod>2012-06-24T21:32:39+01:00</lastmod>
     </url>
     <url>
         <loc>http://geeksoflondon.github.com/barcampberkshire/blog/archives/</loc>
-        <lastmod>2012-06-21T16:59:43+01:00</lastmod>
+        <lastmod>2012-06-24T21:32:39+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geeksoflondon.github.com/barcampberkshire/blog/</loc>
+        <lastmod>2012-06-24T21:32:39+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geeksoflondon.github.com/barcampberkshire/contact/</loc>
+        <lastmod>2012-06-24T21:34:08+01:00</lastmod>
     </url>
     <url>
         <loc>http://geeksoflondon.github.com/barcampberkshire/</loc>
-        <lastmod>2012-06-21T16:59:43+01:00</lastmod>
+        <lastmod>2012-06-24T21:32:39+01:00</lastmod>
     </url>
     <url>
         <loc>http://geeksoflondon.github.com/barcampberkshire/schedule/</loc>
-        <lastmod>2012-06-24T11:35:53+01:00</lastmod>
+        <lastmod>2012-06-24T21:32:39+01:00</lastmod>
     </url>
     <url>
         <loc>http://geeksoflondon.github.com/barcampberkshire/sponsors/</loc>
-        <lastmod>2012-06-20T18:07:05+01:00</lastmod>
+        <lastmod>2012-06-24T21:32:39+01:00</lastmod>
     </url>
     <url>
         <loc>http://geeksoflondon.github.com/barcampberkshire/travel/</loc>
-        <lastmod>2012-06-21T14:53:19+01:00</lastmod>
+        <lastmod>2012-06-24T21:32:39+01:00</lastmod>
     </url>
     <url>
         <loc>http://geeksoflondon.github.com/barcampberkshire/venue/</loc>
-        <lastmod>2012-06-20T18:39:11+01:00</lastmod>
+        <lastmod>2012-06-24T21:32:39+01:00</lastmod>
     </url>
 </urlset>

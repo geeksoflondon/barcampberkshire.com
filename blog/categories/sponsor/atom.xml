@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[BarCamp Berkshire]]></title>
-  <link href="http://geeksoflondon.github.com/barcampberkshire/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Sponsor | BarCamp Berkshire]]></title>
+  <link href="http://geeksoflondon.github.com/barcampberkshire/blog/categories/sponsor/atom.xml" rel="self"/>
   <link href="http://geeksoflondon.github.com/barcampberkshire/"/>
   <updated>2012-06-24T21:35:58+01:00</updated>
   <id>http://geeksoflondon.github.com/barcampberkshire/</id>
@@ -18,7 +18,7 @@
     <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/24/sponsor-techsmith/"/>
     <updated>2012-06-24T16:49:00+01:00</updated>
     <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/24/sponsor-techsmith</id>
-    <content type="html"><![CDATA[<p><a href="http://techsmith.com/"><img src="http://geeksoflondon.github.com/barcampberkshire/images/sponsors/techsmith.png" alt="TechsSmith" /></a></p>
+    <content type="html"><![CDATA[<p><a href="http://techsmith.com/"><img src="/images/sponsors/techsmith.png" alt="TechsSmith" /></a></p>
 
 <p>Our next wonderful sponsor is <a href="http://techsmith.com/">TechSmith</a>.</p>
 
@@ -31,33 +31,13 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Getting to BarCamp]]></title>
-    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/22/getting-to-barcamp/"/>
-    <updated>2012-06-22T10:00:00+01:00</updated>
-    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/22/getting-to-barcamp</id>
-    <content type="html"><![CDATA[<p>BarCamp Berkshire is just over two weeks away and with the options including trains, planes and automobiles, we have added full details on all of them to our <a href="travel">travel</a> page.</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Sponsor: TheLab]]></title>
     <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/05/21/thelab/"/>
     <updated>2012-05-21T11:17:00+01:00</updated>
     <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/05/21/thelab</id>
-    <content type="html"><![CDATA[<p><img src="http://geeksoflondon.github.com/barcampberkshire/images/sponsors/thelab.jpg" alt="TheLab" /></p>
+    <content type="html"><![CDATA[<p><img src="/images/sponsors/thelab.jpg" alt="TheLab" /></p>
 
 <p>The Lab is a team within O2 that was created to help drive innovation across the O2 business and provide a means of trying out new product services ideas quickly via Proof of Concepts and Betas. Ideas will not only come from within the team, but also across all of O2.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Great News, Huge Success!]]></title>
-    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/04/25/big-news-great-success/"/>
-    <updated>2012-04-25T14:52:00+01:00</updated>
-    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/04/25/big-news-great-success</id>
-    <content type="html"><![CDATA[<p>We’re happy to announce that BarCamp Berkshire will be held at O2&#8217;s Headquarters in Slough this July 7th and 8th.</p>
-
-<p>The first round of tickets will be available this Friday (25th May) at 10am! We hope to see lots of you there.</p>
 ]]></content>
   </entry>
   
