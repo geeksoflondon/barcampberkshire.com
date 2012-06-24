@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Cristiano Betta
 title: "Sponsor: TechSmith"
 date: 2012-06-24 16:49
 comments: true
@@ -7,7 +8,7 @@ categories: Sponsor
 image: /images/sponsors/techsmith.png
 ---
 
-![TechsSmith](/images/sponsors/techsmith.png)
+[![TechsSmith](/images/sponsors/techsmith.png)](http://techsmith.com/)
 
 Our next wonderful sponsor is [TechSmith](http://techsmith.com/).
 
