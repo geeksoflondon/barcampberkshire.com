@@ -2,7 +2,7 @@
 
 
   #content {
-    background: #fff;
+    background: #486DA1;
 
     padding-bottom: 30px;
 
@@ -10,7 +10,7 @@
       text-align: center;
       img {
         margin-top: 30px;
-        width: 80%%;
+        width: 80%;
       }
 
       article {
@@ -18,9 +18,9 @@
         display: block;
         padding: 2%;
         margin-top: 20px;
-        color: #333;
-        background-color: #000;
-        background-color: #f2f2f2;
+        color: #fff;
+//        background-color: #000;
+        background-color: inherit;
         clear: both;
       }
     }
