@@ -22,9 +22,9 @@ $text-color-light: #aaa !default;
 $type-border: #ddd !default;
 
 /* Navigation */
-$nav-bg: #2465AD !default;
-$nav-color: lighten($nav-bg, 38) !default;
-$nav-color-hover: lighten($nav-color, 25) !default;
+$nav-bg: #FFF234 !default;
+$nav-color: #486DA1 !default;
+$nav-color-hover: #486DA1 !default;
 $nav-placeholder: desaturate(darken($nav-bg, 10), 15) !default;
 
 /* Sidebar colors */

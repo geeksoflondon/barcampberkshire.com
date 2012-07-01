@@ -1,5 +1,5 @@
 body > header {
-  background: #fff;
+  background: #486DA1;
 
   h1 {
     display: inline-block;
@@ -19,10 +19,8 @@ body > header {
     color: $subtitle-color;
     font-weight: normal;
     background-color: inherit;
-    background-color: #000;
-    background-color: #f2f2f2;
     float: left;
-    padding: 2% 2%;
-    color: #333;
+    padding: 0px;
+    color: #fff;
   }
 }
