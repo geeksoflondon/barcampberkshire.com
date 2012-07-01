@@ -7,7 +7,7 @@ categories: Sponsor
 image: /images/sponsors/paypal.png
 published: false
 ---
-[![ByteMark](/images/sponsors/paypal.png)](http://www.paypal.co.uk/)
+[![PayPal](/images/sponsors/paypal.png)](http://www.paypal.co.uk/)
 
 We are pleased to announce our final sponsor: [PayPal](http://www.paypal.co.uk/).
 
