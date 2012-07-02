@@ -4,7 +4,7 @@
   <title><![CDATA[BarCamp Berkshire]]></title>
   <link href="http://geeksoflondon.github.com/barcampberkshire/atom.xml" rel="self"/>
   <link href="http://geeksoflondon.github.com/barcampberkshire/"/>
-  <updated>2012-06-27T11:51:55+01:00</updated>
+  <updated>2012-07-02T08:03:31+01:00</updated>
   <id>http://geeksoflondon.github.com/barcampberkshire/</id>
   <author>
     <name><![CDATA[Geeks of London]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sponsor: Bytemark]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/27/sponsor-bytemark/"/>
+    <updated>2012-06-27T12:21:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/27/sponsor-bytemark</id>
+    <content type="html"><![CDATA[<p><a href="http://www.bytemark.co.uk/"><img src="http://geeksoflondon.github.com/barcampberkshire/images/sponsors/bytemark.png" alt="ByteMark" /></a></p>
+
+<p><a href="http://www.bytemark.co.uk/">Bytemark Hosting</a> is the UK&#8217;s &#8220;geek hosting outfit of choice&#8221; because its programmer &amp; network-engineer team have built it that way since 2002, with their own tools, software and technical expertise. They understand web applications and network infrastructure equally, and host names such as Bostik, dopplr.com and Britain&#8217;s largest mystery shopping company, Retail Eyes. Their hosting starts at only £15 per month and runs to multi-site managed setups for customers with the fussiest demands of reliability and failover.</p>
+
+<p>We&#8217;d like to thank Bytemark for their continuing support of BarCamps all over the UK. They are making it possible for us to buy some nice snacks and schwag.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sponsor: TechSmith]]></title>
