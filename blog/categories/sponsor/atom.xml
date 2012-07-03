@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Sponsor | BarCamp Berkshire]]></title>
   <link href="http://geeksoflondon.github.com/barcampberkshire/blog/categories/sponsor/atom.xml" rel="self"/>
   <link href="http://geeksoflondon.github.com/barcampberkshire/"/>
-  <updated>2012-07-02T08:03:31+01:00</updated>
+  <updated>2012-07-03T12:47:28+01:00</updated>
   <id>http://geeksoflondon.github.com/barcampberkshire/</id>
   <author>
     <name><![CDATA[Geeks of London]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sponsor: PayPal]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/07/02/sponsor-paypal/"/>
+    <updated>2012-07-02T12:14:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/07/02/sponsor-paypal</id>
+    <content type="html"><![CDATA[<p><a href="http://www.paypal.co.uk/"><img src="/images/sponsors/paypal.png" alt="PayPal" /></a></p>
+
+<p>We are pleased to announce our final sponsor: <a href="http://www.paypal.co.uk/">PayPal</a>.</p>
+
+<p>PayPal is the world’s leading online payments provider. They work closely with startup businesses in more than 190 countries to enable payments and generate revenue on their web sites.</p>
+
+<p>They were the first global payments solution provider to open their API, allowing developers the opportunity to monetise their applications across social media, web and mobile platforms.</p>
+
+<p>PayPal has been a long time sponsor of BarCamp London and other Geeks of London events and we thank them for their continued support.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sponsor: Bytemark]]></title>
