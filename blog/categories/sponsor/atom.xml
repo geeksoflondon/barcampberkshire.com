@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Sponsor | BarCamp Berkshire]]></title>
+  <link href="http://geeksoflondon.github.com/barcampberkshire/blog/categories/sponsor/atom.xml" rel="self"/>
+  <link href="http://geeksoflondon.github.com/barcampberkshire/"/>
+  <updated>2012-07-03T12:47:28+01:00</updated>
+  <id>http://geeksoflondon.github.com/barcampberkshire/</id>
+  <author>
+    <name><![CDATA[Geeks of London]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Sponsor: PayPal]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/07/02/sponsor-paypal/"/>
+    <updated>2012-07-02T12:14:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/07/02/sponsor-paypal</id>
+    <content type="html"><![CDATA[<p><a href="http://www.paypal.co.uk/"><img src="/images/sponsors/paypal.png" alt="PayPal" /></a></p>
+
+<p>We are pleased to announce our final sponsor: <a href="http://www.paypal.co.uk/">PayPal</a>.</p>
+
+<p>PayPal is the world’s leading online payments provider. They work closely with startup businesses in more than 190 countries to enable payments and generate revenue on their web sites.</p>
+
+<p>They were the first global payments solution provider to open their API, allowing developers the opportunity to monetise their applications across social media, web and mobile platforms.</p>
+
+<p>PayPal has been a long time sponsor of BarCamp London and other Geeks of London events and we thank them for their continued support.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sponsor: Bytemark]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/27/sponsor-bytemark/"/>
+    <updated>2012-06-27T12:21:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/27/sponsor-bytemark</id>
+    <content type="html"><![CDATA[<p><a href="http://www.bytemark.co.uk/"><img src="/images/sponsors/bytemark.png" alt="ByteMark" /></a></p>
+
+<p><a href="http://www.bytemark.co.uk/">Bytemark Hosting</a> is the UK's "geek hosting outfit of choice" because its programmer &amp; network-engineer team have built it that way since 2002, with their own tools, software and technical expertise. They understand web applications and network infrastructure equally, and host names such as Bostik, dopplr.com and Britain's largest mystery shopping company, Retail Eyes. Their hosting starts at only £15 per month and runs to multi-site managed setups for customers with the fussiest demands of reliability and failover.</p>
+
+<p>We'd like to thank Bytemark for their continuing support of BarCamps all over the UK. They are making it possible for us to buy some nice snacks and schwag.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sponsor: TechSmith]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/24/sponsor-techsmith/"/>
+    <updated>2012-06-24T16:49:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/24/sponsor-techsmith</id>
+    <content type="html"><![CDATA[<p><a href="http://techsmith.com/"><img src="/images/sponsors/techsmith.png" alt="TechsSmith" /></a></p>
+
+<p>Our next wonderful sponsor is <a href="http://techsmith.com/">TechSmith</a>.</p>
+
+<p>TechSmith is the name behind <a href="http://www.techsmith.com/camtasia/">Camtasia Studio</a> and <a href="http://www.techsmith.com/screen-capture.asp">Snagit</a>, two of the most popular screencasting/capture applications for Windows and Mac.</p>
+
+<p>People everywhere use their products to grab images and record content straight off their computer screens to create dynamic presentations and screencasts. With their products, people communicate more effectively and create interest with engaging visuals and sharp videos that grab attention and keep it. TechSmith develops and updates their innovative software every day and plans to continue expanding their existing products to support the Mac platform.</p>
+
+<p>We’d like to thank TechSmith for their continuing support of BarCamps around the world.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sponsor: TheLab]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/05/21/thelab/"/>
+    <updated>2012-05-21T11:17:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/05/21/thelab</id>
+    <content type="html"><![CDATA[<p><img src="/images/sponsors/thelab.jpg" alt="TheLab" /></p>
+
+<p>The Lab is a team within O2 that was created to help drive innovation across the O2 business and provide a means of trying out new product services ideas quickly via Proof of Concepts and Betas. Ideas will not only come from within the team, but also across all of O2.</p>
+]]></content>
+  </entry>
+  
+</feed>
