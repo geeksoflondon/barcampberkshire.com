@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[BarCamp Berkshire]]></title>
+  <link href="http://geeksoflondon.github.com/barcampberkshire/atom.xml" rel="self"/>
+  <link href="http://geeksoflondon.github.com/barcampberkshire/"/>
+  <updated>2012-07-03T12:47:28+01:00</updated>
+  <id>http://geeksoflondon.github.com/barcampberkshire/</id>
+  <author>
+    <name><![CDATA[Geeks of London]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Scared of speaking?]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/07/03/scared-of-speaking/"/>
+    <updated>2012-07-03T12:43:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/07/03/scared-of-speaking</id>
+    <content type="html"><![CDATA[<p>BarCamps are a wonderful opportunity to get your first experiences as a public speaker. I&#8217;ve organised a few and attended a lot in the last few years in various countries and love them to bits. Lately, however, I found that the original ideas and freedoms of BarCamp have been washed out and people get stressed far too much about them (or don&#8217;t use them to their advantage). When I talked to the organisers of the upcoming London BarCamp about that they asked me to jot down some of my ideas on how you approach speaking at a BarCamp without getting yourself worked up too much.</p>
+
+<p>So what is a BarCamp? It is an Unconference and as such totally the opposite of a conference:</p>
+
+<ul>
+<li><strong>There are no predefined speakers</strong> - only a grid of speaking places and times to be filled on the spot.</li>
+<li><strong>Everybody who comes to a BarCamp should also present something</strong> - just camping is frowned upon.</li>
+<li><strong>The emphasis is on sharing and networking</strong> - not on listening and getting inspired whilst feeling inadequate or disconnected from those &#8220;cool&#8221; people on stage.</li>
+<li><strong>In terms of topics anything goes</strong> - there is no theme to a BarCamp - this is why people do specialised camps instead.</li>
+</ul>
+
+
+<p>All of this is a wonderful opportunity to do a few things:</p>
+
+<ul>
+<li><p><strong>You can get your first speaking experience</strong> without having to submit a paper, follow speaker guidelines or any other such nonsense . Go there, sign up for a slot and go nuts. You can dance your talk, rap it, use sign language, semaphore, mime it, bring a guitar and sing it - whatever. This is about you talking about something you want to talk about rather than something that you think you have to talk about because it is hip right now.</p></li>
+<li><p><strong>You can host a discussion round.</strong> If you don&#8217;t feel confident as a speaker yet but you really want to get some insight into a certain topic or shine a light on an elephant in the room, simply take a slot and facilitate an open discussion about the topic.</p></li>
+<li><p><strong>You can show a problem and ask people to help you solving it</strong> - which is as important as showing a solution. Geeks love to solve problems. If we don&#8217;t find any we come up with arbitrary ones. If you have something that you always wanted solutions for, bring it up at a BarCamp. People will talk about it and share for you.</p></li>
+<li><p><strong>You can do a showcase.</strong> If you found something working immensely well for you, show that off. It could be a piece of software you use, a methodology you follow, how to get cheap theater tickets by showing up five minutes before the show - whatever. What makes you more efficient might be exactly the thing other people were looking for.</p></li>
+</ul>
+
+
+<p>OK, but what if you are scared of the mere concept of standing up in front of a lot of people and talk but really want to face that demon? BarCamps are your opportunity to do that. Simply keep the following things in your head:</p>
+
+<ul>
+<li><p><strong>It is not a conference</strong>* - people didn&#8217;t pay to see you and everybody in the audience has to present,too so there is a very high chance that they are as worried as you are.</p></li>
+<li><p><strong>Find a subject that you are passionate about</strong> - passion breeds confidence. If you are more interested in getting a subject matter across than how to present it then you will be great. Pick a topic you love and you want others to love, too. This could be timely but doesn&#8217;t have to be.</p></li>
+<li><p><strong>Don&#8217;t plan your talk</strong> - unlike talks at conferences there is just no need to meticulously plan your talk. BarCamps are total chaos. People will come and leave during your talk and disrupt you. There can be questions from the audience during it - all of that is allowed and encouraged. For you this means that you need to be confident about the subject - not about the few dozens slides you want to use as your lifeline. Get in there armed with the knowledge you need to answer questions about your subject - not with a presentation you learnt by heart.</p></li>
+<li><p><strong>There is no way you can mess up</strong> - BarCamps are a pressure free environment, this is why people invented them. The plan is to have ideas floating around and sharing them. If you are not a funny person or feel unhappy being the centre of attention don&#8217;t be - show what you want to show and ask questions about it - deflect the attention to the subject matter and back to the audience.</p></li>
+<li><p><strong>People are on your side</strong> - nobody at BarCamps will try to shoot you down in flames. There is nothing to be gained from it as the person will also have to present and has to deliver better. In conferences people try to show off by disagreeing with the paid expert on stage - at unconferences this will just make them look pathetic (well, more pathetic, really)</p></li>
+<li><p><strong>Your main task is to have and inspire fun and interest</strong> - simply find something you are passionate about and try to spark the others into feeling the same. Even if that doesn&#8217;t work out you came across as someone who believes in something and is happy to share it. It makes you confident, interesting and effective (watch Serenity and learn about the assassins in that movie as an example of that - if you believe in something you are much stronger)</p></li>
+</ul>
+
+
+<p>The main trick is to concentrate on the subject you want to cover and not the talk. However, if you want to make sure you deliver an amazing talk here are some resources I&#8217;ve written for training:</p>
+
+<ul>
+<li><a href="http://developer-evangelism.com/delivery.php">Deliver a talk or workshop</a></li>
+<li><a href="http://developer-evangelism.com/slides.php">Prepare great slide decks for presentations.</a></li>
+<li><a href="http://developer-evangelism.com/tips.php">Additional presentation tips</a></li>
+</ul>
+
+
+<p>Another great tip of course is to look for videos and presentations given at other BarCamps and learn from other people&#8217;s mistakes and successes. Be aware of not falling into the trap of copying other people&#8217;s style - you are you and the speaker should be you not a faded carbon copy of another person.</p>
+
+<p>Personally I don&#8217;t show up much at BarCamps any more. The reason is that space is limited and I don&#8217;t want to take away the ticket from someone who&#8217;d love to come and have their first go at presenting. If I go there I love seeing new talent and giving feedback though so if you see me and I attend your talk, don&#8217;t be shy and ask.</p>
+
+<p>I think it is time for us to re-think our BarCamp strategy and go back to its roots. I&#8217;ve been to quite a few unconferences lately that end up with an empty grid with only a few talks by already known speakers. This is nice as it gives people a chance to see those speakers in action without spending money on a conference ticket but it also means that others are scared of presenting themselves or hunt the known presenter instead of concentrating on sharing some of their knowledge themselves.</p>
+
+<p>BarCamp is there for you and for others to learn about you. They are free, but they do cost a lot of time and money. If both these are wasted on people not presenting but instead consuming or playing Werewolf for a whole night we might as well call them GameCamp. It is hard to get funding for unconferences when there is nothing coming out in the end - so if you like the idea of BarCamps be part of those who make them a fertile ground of information sharing.</p>
+
+<hr />
+
+<p><img src="http://farm4.static.flickr.com/3016/3397915500_33033bb28f_m.jpg" alt="Christian Heilmann" /></p>
+
+<p>[1] Christian Heilmann is a geek and hacker by heart. He’s been a professional web developer for about eleven years and worked his way through several agencies up to Yahoo! where he delivered Yahoo! Maps Europe and Yahoo! Answers.</p>
+
+<p>He’s written two and contributed to three books on JavaScript, web development and accessibility, lead distributed teams as a manager and made them work with one another and released dozens of online articles and hundreds of blog posts in the last few years.</p>
+
+<p>He’s been nominated standards champion of the year 2008 by .net magazine in the UK and currently sports the fashionable job title “International Developer Evangelist” spending his time going from conference to conference and university to university to speak and train people on systems provided by Yahoo! and other web companies that want to make this web thing work well for everybody.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sponsor: PayPal]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/07/02/sponsor-paypal/"/>
+    <updated>2012-07-02T12:14:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/07/02/sponsor-paypal</id>
+    <content type="html"><![CDATA[<p><a href="http://www.paypal.co.uk/"><img src="http://geeksoflondon.github.com/barcampberkshire/images/sponsors/paypal.png" alt="PayPal" /></a></p>
+
+<p>We are pleased to announce our final sponsor: <a href="http://www.paypal.co.uk/">PayPal</a>.</p>
+
+<p>PayPal is the world’s leading online payments provider. They work closely with startup businesses in more than 190 countries to enable payments and generate revenue on their web sites.</p>
+
+<p>They were the first global payments solution provider to open their API, allowing developers the opportunity to monetise their applications across social media, web and mobile platforms.</p>
+
+<p>PayPal has been a long time sponsor of BarCamp London and other Geeks of London events and we thank them for their continued support.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sponsor: Bytemark]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/27/sponsor-bytemark/"/>
+    <updated>2012-06-27T12:21:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/27/sponsor-bytemark</id>
+    <content type="html"><![CDATA[<p><a href="http://www.bytemark.co.uk/"><img src="http://geeksoflondon.github.com/barcampberkshire/images/sponsors/bytemark.png" alt="ByteMark" /></a></p>
+
+<p><a href="http://www.bytemark.co.uk/">Bytemark Hosting</a> is the UK&#8217;s &#8220;geek hosting outfit of choice&#8221; because its programmer &amp; network-engineer team have built it that way since 2002, with their own tools, software and technical expertise. They understand web applications and network infrastructure equally, and host names such as Bostik, dopplr.com and Britain&#8217;s largest mystery shopping company, Retail Eyes. Their hosting starts at only £15 per month and runs to multi-site managed setups for customers with the fussiest demands of reliability and failover.</p>
+
+<p>We&#8217;d like to thank Bytemark for their continuing support of BarCamps all over the UK. They are making it possible for us to buy some nice snacks and schwag.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sponsor: TechSmith]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/24/sponsor-techsmith/"/>
+    <updated>2012-06-24T16:49:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/24/sponsor-techsmith</id>
+    <content type="html"><![CDATA[<p><a href="http://techsmith.com/"><img src="http://geeksoflondon.github.com/barcampberkshire/images/sponsors/techsmith.png" alt="TechsSmith" /></a></p>
+
+<p>Our next wonderful sponsor is <a href="http://techsmith.com/">TechSmith</a>.</p>
+
+<p>TechSmith is the name behind <a href="http://www.techsmith.com/camtasia/">Camtasia Studio</a> and <a href="http://www.techsmith.com/screen-capture.asp">Snagit</a>, two of the most popular screencasting/capture applications for Windows and Mac.</p>
+
+<p>People everywhere use their products to grab images and record content straight off their computer screens to create dynamic presentations and screencasts. With their products, people communicate more effectively and create interest with engaging visuals and sharp videos that grab attention and keep it. TechSmith develops and updates their innovative software every day and plans to continue expanding their existing products to support the Mac platform.</p>
+
+<p>We’d like to thank TechSmith for their continuing support of BarCamps around the world.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Getting to BarCamp]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/22/getting-to-barcamp/"/>
+    <updated>2012-06-22T10:00:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/06/22/getting-to-barcamp</id>
+    <content type="html"><![CDATA[<p>BarCamp Berkshire is just over two weeks away and with the options including trains, planes and automobiles, we have added full details on all of them to our <a href="travel">travel</a> page.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sponsor: TheLab]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/05/21/thelab/"/>
+    <updated>2012-05-21T11:17:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/05/21/thelab</id>
+    <content type="html"><![CDATA[<p><img src="http://geeksoflondon.github.com/barcampberkshire/images/sponsors/thelab.jpg" alt="TheLab" /></p>
+
+<p>The Lab is a team within O2 that was created to help drive innovation across the O2 business and provide a means of trying out new product services ideas quickly via Proof of Concepts and Betas. Ideas will not only come from within the team, but also across all of O2.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Great News, Huge Success!]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2012/04/25/big-news-great-success/"/>
+    <updated>2012-04-25T14:52:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2012/04/25/big-news-great-success</id>
+    <content type="html"><![CDATA[<p>We’re happy to announce that BarCamp Berkshire will be held at O2&#8217;s Headquarters in Slough this July 7th and 8th.</p>
+
+<p>The first round of tickets will be available this Friday (25th May) at 10am! We hope to see lots of you there.</p>
+]]></content>
+  </entry>
+  
+</feed>
