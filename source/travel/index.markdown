@@ -8,7 +8,7 @@ footer: true
 
 ## Driving
 
-We have parking for over one thousand cars in O2's expansive car park so feel free to drive; if you need help with directions:
+We have parking for a few hundred cars in O2's car park so feel free to drive; if you need help with directions:
 
 **Via M4** - [Map](http://g.co/maps/gjwyn)
 
@@ -24,9 +24,10 @@ If you're using your Sat Nav, you should use:
 
 ### The BarCamp Shuttle
 
-We will be running a shuttle service from Slough station to the O2 campus throughout the weekend.
+We will be running a shuttle service from Slough station to the O2 campus throughout the weekend 
+and will publish the schedule closer to the weekend
 
-#### Saturday departing Slough Station
+<!-- #### Saturday departing Slough Station
 
 09:00, 09:15, 09:30, 09:45, 10:00, 10:15, 10:30, 10:45, 11:00
 
@@ -40,7 +41,7 @@ After this the buses will run on the hour from 1pm till 3pm with buses leave O2 
 
 #### Sunday departing O2
 
-16:00, 16:15, 16:30, 16:45, 17:00, 17:15, 17:30
+16:00, 16:15, 16:30, 16:45, 17:00, 17:15, 17:30 -->
 
 ### Trains from London
 
@@ -50,11 +51,9 @@ Their will be no Underground service on the Circle line to Paddington however th
 
 #### Fast Departures From London Paddington
 
-    08:50
-    09:21
-    09:50
+  TODO: Add fast trains
 
-You can add yourself to one of the services [here](http://bit.ly/NXSlPp) and we will try our best to help with GroupSave fares.
+Remember travelling with friends from London Paddington will entitle you to Groupsave tickets.
 
 For help planning your journey consult: [Transport for London](http://www.tfl.gov.uk)
 
@@ -64,27 +63,10 @@ On weekends there are no direct trains to Slough and you will need to change at 
 
 #### From South Wales via Bristol Parkway
 
-    06:28 - Swansea
-    06:39 - Neath
-    06:47 - Port Talbot Parkway
-    06:59 - Bridgend
-    07:22 - Cardiff Central
-    07:39 - Newport
-    07:59 - Bristol Parkway
-    08:27 - Swindon
-    08:46 - Didcot
-    09:00 - Reading
-
-Change trains to the 09:20 to London Paddington stopping service to arrive at 09:40 in Slough.
+  TODO: Add fast trains
 
 #### From West Country via Bristol Temple Meads
 
-    08:00 - Bristol Temple Meads
-    08:11 - Bath Spa
-    08:24 - Chippenham
-    08:39 - Swindon
-    08:58 - Reading
-
-Change trains to the 09:20 to London Paddington stopping service to arrive at 09:40 in Slough.
+  TODO: Add fast trains
 
 For help planning your journey consult: [National Rail](http://www.nationalrail.co.uk/)
