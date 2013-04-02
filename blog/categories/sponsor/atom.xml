@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Sponsor | BarCamp Berkshire]]></title>
+  <link href="http://geeksoflondon.github.com/barcampberkshire/blog/categories/sponsor/atom.xml" rel="self"/>
+  <link href="http://geeksoflondon.github.com/barcampberkshire/"/>
+  <updated>2013-04-02T15:24:20+01:00</updated>
+  <id>http://geeksoflondon.github.com/barcampberkshire/</id>
+  <author>
+    <name><![CDATA[Geeks of London]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Sponsor: TheLab]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2013/04/02/thelab/"/>
+    <updated>2013-04-02T12:00:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2013/04/02/thelab</id>
+    <content type="html"><![CDATA[<p><img src="/images/sponsors/thelab.jpg" alt="TheLab" /></p>
+
+<p>The Lab is a team within O2 that was created to help drive innovation across the O2 business and provide a means of trying out new product services ideas quickly via Proof of Concepts and Betas. Ideas will not only come from within the team, but also across all of O2.</p>
+]]></content>
+  </entry>
+  
+</feed>
