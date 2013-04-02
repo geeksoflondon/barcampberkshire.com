@@ -8,4 +8,4 @@ category: Sponsor
 
 ![TheLab](/images/sponsors/thelab.jpg)
 
-The Lab is a team within O2 that was created to help drive innovation across the O2 business and provide a means of trying out new product services ideas quickly via Proof of Concepts and Betas. Ideas will not only come from within the team, but also across all of O2.
+The Lab is an innovation team, powered by O2. They were set up in to test new ideas & concepts fast, using Proof of Concepts and Betas and to help drive innovation across the O2 business. 
