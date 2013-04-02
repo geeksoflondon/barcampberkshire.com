@@ -97,6 +97,6 @@ Don’t worry if you don’t understand any of the above. The BarCamp Crew will 
 </tr>
 <tr>
 <th>16:30</th>
-<td>Go home or to the pub!</td>
+<td>Go home!</td>
 </tr>
 </tbody></table>
