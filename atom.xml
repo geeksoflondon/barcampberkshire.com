@@ -4,7 +4,7 @@
   <title><![CDATA[BarCamp Berkshire]]></title>
   <link href="http://geeksoflondon.github.com/barcampberkshire/atom.xml" rel="self"/>
   <link href="http://geeksoflondon.github.com/barcampberkshire/"/>
-  <updated>2013-04-02T15:47:51+01:00</updated>
+  <updated>2013-04-02T19:39:28+01:00</updated>
   <id>http://geeksoflondon.github.com/barcampberkshire/</id>
   <author>
     <name><![CDATA[Geeks of London]]></name>
@@ -31,7 +31,7 @@
     <id>http://geeksoflondon.github.com/barcampberkshire/blog/2013/04/01/big-news-great-success</id>
     <content type="html"><![CDATA[<p>We’re happy to announce that BarCamp Berkshire 2 will be held at O2&#8217;s Headquarters in Slough this June 15th and 16th.</p>
 
-<p>Tickets are available today from [EventBrite|http://bcberk.eventbrite.com/].</p>
+<p>Tickets are available today from <a href="http://bcberkshire2.eventbrite.com/">EventBrite</a>.</p>
 ]]></content>
   </entry>
   
