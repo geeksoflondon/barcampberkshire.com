@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "How do the sessions work?"
-comments: true
+comments: false
 sharing: true
 footer: true
 ---
