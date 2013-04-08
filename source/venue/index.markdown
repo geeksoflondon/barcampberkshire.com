@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Venue"
-comments: true
+comments: false
 sharing: true
 footer: true
 ---
