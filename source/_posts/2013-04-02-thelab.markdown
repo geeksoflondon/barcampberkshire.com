@@ -8,4 +8,4 @@ category: Sponsor
 
 ![TheLab](/images/sponsors/thelab.jpg)
 
-The Lab is an innovation team, powered by O2. They were set up in to test new ideas & concepts fast, using Proof of Concepts and Betas and to help drive innovation across the O2 business. 
+The Lab is an innovation team, powered by O2. They were set up in to test new ideas & concepts fast, using Proof of Concepts and Betas to help drive innovation across the O2 business. 
