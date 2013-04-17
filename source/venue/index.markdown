@@ -20,7 +20,7 @@ SL1 4DX
 You will have access to nearly the entire O2 campus during the weekend. However the majority of BarCamp 
 will take place in the East Building.
 
-Majority of sessions will take place on the ground and 1st floor with the canteen up the 2nd floor serving delicious meals. We will also have two full stocked mini kitchens with drinks and snacks.
+Majority of sessions will take place on the ground and 1st floor with the canteen on the 2nd floor serving delicious meals. We will also have a fully stocked mini kitchen.
 
 For sleeping we will have dedicated rooms and hot showers are also available.
 
