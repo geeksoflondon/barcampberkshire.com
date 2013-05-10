@@ -4,7 +4,7 @@
   <title><![CDATA[BarCamp Berkshire]]></title>
   <link href="http://geeksoflondon.github.com/barcampberkshire/atom.xml" rel="self"/>
   <link href="http://geeksoflondon.github.com/barcampberkshire/"/>
-  <updated>2013-04-17T17:47:35+01:00</updated>
+  <updated>2013-05-10T07:13:27+01:00</updated>
   <id>http://geeksoflondon.github.com/barcampberkshire/</id>
   <author>
     <name><![CDATA[Geeks of London]]></name>
@@ -14,10 +14,43 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Sponsor: PayPal]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2013/05/09/paypal/"/>
+    <updated>2013-05-09T12:00:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2013/05/09/paypal</id>
+    <content type="html"><![CDATA[<p><img src="http://geeksoflondon.github.com/barcampberkshire/images/sponsors/paypal.png" alt="Nokia" /></p>
+
+<p>Earlier this year PayPal launched some brand new REST APIs, mobile payment libraries, and a new developer portal in a focussed effort to cater to the needs of the everyday developer. Their team will be at HACKED to demo the new APIs and be available to answer any questions.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sponsor: Nokia and Windows 8]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2013/05/09/nokia/"/>
+    <updated>2013-05-09T12:00:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2013/05/09/nokia</id>
+    <content type="html"><![CDATA[<p><img src="http://geeksoflondon.github.com/barcampberkshire/images/sponsors/nokia.png" alt="Nokia" /></p>
+
+<p>Nokia Developer offers a range of tools and technologies to help you develop fantastic apps. Developers from around the world are increasingly publishing apps for Windows Phones, including Nokia Lumia smartphones, with more than 135,000 apps already in the Windows Phone Store.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sponsor: Heroku]]></title>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2013/05/09/heroku/"/>
+    <updated>2013-05-09T12:00:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2013/05/09/heroku</id>
+    <content type="html"><![CDATA[<p><img src="http://geeksoflondon.github.com/barcampberkshire/images/sponsors/heroku.png" alt="Heroku" /></p>
+
+<p>Spend your time building applications, not managing the servers that run them. Heroku is a platform-as-a-service that adds simplicity to deploying, scaling and managing the infrastructure that run applications.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Sponsor: TheLab]]></title>
-    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2013/04/02/thelab/"/>
-    <updated>2013-04-02T12:00:00+01:00</updated>
-    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2013/04/02/thelab</id>
+    <link href="http://geeksoflondon.github.com/barcampberkshire/blog/2013/04/10/thelab/"/>
+    <updated>2013-04-10T12:00:00+01:00</updated>
+    <id>http://geeksoflondon.github.com/barcampberkshire/blog/2013/04/10/thelab</id>
     <content type="html"><![CDATA[<p><img src="http://geeksoflondon.github.com/barcampberkshire/images/sponsors/thelab.jpg" alt="TheLab" /></p>
 
 <p>The Lab is an innovation team, powered by O2. They were set up in to test new ideas &amp; concepts fast, using Proof of Concepts and Betas to help drive innovation across the O2 business.</p>
