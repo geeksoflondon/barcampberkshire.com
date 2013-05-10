@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Sponsor: PayPal"
+date: 2013-05-09 12:00
+image: /images/sponsors/paypal.png
+category: Sponsor
+---
+
+![Nokia](/images/sponsors/paypal.png)
+
+Earlier this year PayPal launched some brand new REST APIs, mobile payment libraries, and a new developer portal in a focussed effort to cater to the needs of the everyday developer. Their team will be at HACKED to demo the new APIs and be available to answer any questions.
+

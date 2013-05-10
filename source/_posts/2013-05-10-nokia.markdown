@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Sponsor: Nokia and Windows 8"
+date: 2013-05-09 12:00
+image: /images/sponsors/nokia.png
+category: Sponsor
+---
+
+![Nokia](/images/sponsors/nokia.png)
+
+Nokia Developer offers a range of tools and technologies to help you develop fantastic apps. Developers from around the world are increasingly publishing apps for Windows Phones, including Nokia Lumia smartphones, with more than 135,000 apps already in the Windows Phone Store.
